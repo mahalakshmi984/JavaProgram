@@ -6,7 +6,7 @@
                  
               for(int i=1;i<=10;i++){
 
-                    System.out.println("Welcome to Jenkin Tutorials...."+i);
+                    System.out.println("Welcome to Java...."+i);
 
                 }
        
